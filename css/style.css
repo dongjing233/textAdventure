@@ -1,0 +1,199 @@
+body {
+    padding-top: 5%;
+    color: darkred;
+	font-family: "impact";
+	font-weight: 100;
+    line-height: 300%;
+    font-size: 25pt;
+}
+
+
+
+
+a:link {color:grey;
+text-decoration: none;} 
+
+a:visited {color:grey;} 
+
+a:hover {
+  color:darkred;
+    filter:drop-shadow();
+}
+
+.virus1{
+    margin-top: -40%;
+}
+
+.virus1:hover{
+filter: hue-rotate(150deg);
+}
+
+.virus2{
+    position:absolute;
+    margin-top: 20%;
+    margin-left: 80%;
+}
+
+.virus2:hover{
+filter: hue-rotate(150deg);
+}
+
+footer{
+    margin-top:30%;
+    color:gainsboro;
+}
+
+.silent{
+    margin-top: -115px;
+    margin-left:-20px;
+    background-image: url("../images/silent.png");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.publicize{
+    margin-top: 0px;
+    margin-left:-20px;
+    background-image: url("../images/publicize.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.work{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/work.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.inflammation{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/inflammation.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.home{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/home.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.redCross{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/redCross.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.civil
+{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/civil.jpg");
+
+/*
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+*/
+}
+
+.death
+{
+    margin-top: -100px;
+    margin-left:-20px;
+    background-image: url("../images/death.jpg");
+/*
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+*/
+}
+
+.survive
+{
+    margin-top: -100px;
+    margin-left:-20px;
+    background-image: url("../images/death.jpg");
+/*          background-repeat: no-repeat;*/
+          background-attachment: fixed;
+}
+
+.important
+{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/important.jpg");
+/*      background-repeat: no-repeat;*/
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+.integrity
+{
+    margin-top: -200px;
+    margin-left:-20px;
+    background-image: url("../images/integrity.jpg");
+      background-repeat: no-repeat;
+      background-size:contain;
+      background-attachment: fixed;
+}
+
+
+
+
+.cursor1:hover{
+     cursor:url("../images/Artboard%201-8.png"), auto;
+}
+
+
+.cursor2:hover{
+     cursor:url("../images/Artboard%202-8.png"), auto;
+}
+
+.cursor3:hover{
+     cursor:url("../images/Artboard%203-8.png"), auto;
+}
+
+.cursor4:hover{
+     cursor:url("../images/Artboard%204-8.png"), auto;
+}
+
+.cursor5:hover{
+     cursor:url("../images/Artboard%205-8.png"), auto;
+}
+
+.cursor6:hover{
+     cursor:url("../images/Artboard%206-8.png"), auto;
+}
+
+.cursor7:hover{
+     cursor:url("../images/Artboard%207-8.png"), auto;
+}
+
+.cursor8:hover{
+     cursor:url("../images/Artboard%208-8.png"), auto;
+}
+
+.cursor9:hover{
+     cursor:url("../images/Artboard%209-8.png"), auto;
+}
+.cursor9{
+        color:grey;
+}
+
+.achieve:hover{
+     cursor:url("../images/achieve.png"), auto;
+}
