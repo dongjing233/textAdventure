@@ -8,16 +8,17 @@ body {
 }
 
 
-
-
 a:link {color:grey;
-text-decoration: none;} 
+text-decoration: none;
+} 
 
 a:visited {color:grey;} 
 
 a:hover {
   color:darkred;
     filter:drop-shadow();
+    transform: scale(0.8);
+    background:gainsboro;
 }
 
 .virus1{
@@ -26,16 +27,20 @@ a:hover {
 
 .virus1:hover{
 filter: hue-rotate(150deg);
+        transform: scale(0.9);
+
 }
 
 .virus2{
     position:absolute;
     margin-top: 20%;
     margin-left: 80%;
+
 }
 
 .virus2:hover{
 filter: hue-rotate(150deg);
+          transform: scale(1.2);
 }
 
 footer{
